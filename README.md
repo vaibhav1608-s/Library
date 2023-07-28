@@ -1,1 +1,1 @@
-# Library-management-system-in-javascript
+# Library-management-system
